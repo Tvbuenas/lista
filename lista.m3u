@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1,Las Estrellas-Ch22
-http://45.228.234.77:3340/play/lasestrellas/index.m3u8
+#EXTINF:-1,Las Estrellas
+http://45.238.21.106:7778/play/a00r/index.m3u8
 #EXTINF:-1,ADN 40
 http://201.190.40.45:58002/play/a00s/index.m3u8
 #EXTINF:-1,Azteca +
