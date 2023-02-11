@@ -1,92 +1,81 @@
 #EXTM3U
-#EXTINF:-1,Las Estrellas
-http://45.238.21.106:7778/play/a00r/index.m3u8
-#EXTINF:-1,ADN 40
+#EXTINF:-1 ,Las Estrellas
+http://170.83.242.152:5350/play/a012
+#EXTINF:-1 ,ADN 40
 http://201.190.40.45:58002/play/a00s/index.m3u8
-#EXTINF:-1,Azteca +
+#EXTINF:-1 ,Azteca +
 http://201.190.40.45:58002/play/a015/index.m3u8
-#EXTINF:-1,Azteca 7
+#EXTINF:-1 ,Azteca 7
 http://201.190.40.45:58002/play/a00r/index.m3u8
-#EXTINF:-1,Azteca UNO
+#EXTINF:-1 ,Azteca UNO
 http://201.190.40.45:58002/play/a00q/index.m3u8
-#EXTINF:-1,Telemundo
+#EXTINF:-1 ,Telemundo
 http://170.83.242.9:5350/play/a015
-#EXTINF:-1,TUDN
+#EXTINF:-1 ,TUDN
 http://45.182.21.251:33334/play/a07y/index.m3u8
-#EXTINF:-1,TUDN HD USA
+#EXTINF:-1 ,TUDN HD USA
 http://45.182.21.251:33334/play/a077/index.m3u8
-#EXTINF:-1,ESPN 2 HD
-http://181.39.202.98:9948/play/a13z/index.m3u8
-#EXTINF:-1,ESPN 3 HD
-http://181.39.202.98:9948/play/a13y/index.m3u8
-#EXTINF:-1,ESPN 4 HD
-http://181.39.202.98:9948/play/a0yr/index.m3u8
-#EXTINF:-1,ESPN HD
-http://181.39.202.98:9948/play/a13x/index.m3u8
-#EXTINF:-1,ElCanaldelFutbol HD
-http://181.39.202.98:9948/play/a0zv/index.m3u8
-#EXTINF:-1,FOX SPORTS 2 HD
-http://181.39.202.98:9948/play/a123/index.m3u8
-#EXTINF:-1,FOX SPORTS 3 HD
-http://181.39.202.98:9948/play/a140/index.m3u8
-#EXTINF:-1,MULTIMEDIOS LAGUNA
-https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?uid=yHDTxVbDYwwT7k9KYhmaIZ8KbJoAs9OI&sid=lNJ2MinSCzuGwWnLejuhI5YedCqFRLM2&pid=tgTYEZFepeITf7n6MslJqsh80m6Mt0Mc&an=screen&at=web-app&av=v5.2.305&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=1009x505&without_cookies=false&listenerid=&dnt=true
-#EXTINF:-1,RCG MEDIA
+#EXTINF:-1 ,RCG MEDIA
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
-#EXTINF:-1,Canal 23-CH23
+#EXTINF:-1 ,Canal 23-CH23
 http://45.228.234.77:3340/play/canal23/index.m3u8
-#EXTINF:-1,TLNovelas-CH24
+#EXTINF:-1 ,TLNovelas-CH24
 http://45.228.234.77:3340/play/tlnovelas/index.m3u8
-#EXTINF:-1,Unicable-CH25
+#EXTINF:-1 ,Unicable-CH25
 http://45.228.234.77:3340/play/unicable/index.m3u8
-#EXTINF:-1,Telemundo HD-CH29
+#EXTINF:-1 ,Telemundo HD-CH29
 http://45.228.234.77:3340/play/telemundohd/index.m3u8
-#EXTINF:-1,Distrito Comedia-CH30
+#EXTINF:-1 ,Distrito Comedia-CH30
 http://45.228.234.77:3340/play/distritocomedia/index.m3u8
-#EXTINF:-1,History Channel-CH33
+#EXTINF:-1 ,History Channel-CH33
 http://45.228.234.77:3340/play/historychannel/index.m3u8
-#EXTINF:-1,Animal Planet-CH34
+#EXTINF:-1 ,Animal Planet-CH34
 http://45.228.234.77:3340/play/animalplanet/index.m3u8
-#EXTINF:-1,FX-CH46
+#EXTINF:-1 ,FX-CH46
 http://45.228.234.77:3340/play/fx/index.m3u8
-#EXTINF:-1,TCM-CH50
+#EXTINF:-1 ,TCM-CH50
 http://45.228.234.77:3340/play/tcm/index.m3u8
-#EXTINF:-1,TLC-CH52
+#EXTINF:-1 ,TLC-CH52
 http://45.228.234.77:3340/play/tlc/index.m3u8
-#EXTINF:-1,CINECANAL HD-CH54
+#EXTINF:-1 ,CINECANAL HD-CH54
 http://45.228.234.77:3340/play/cinecanal/index.m3u8
-#EXTINF:-1,Golden-CH56
+#EXTINF:-1 ,Golden-CH56
 http://45.228.234.77:3340/play/goldenedge/index.m3u8
-#EXTINF:-1,WARNER HD-CH58
+#EXTINF:-1 ,WARNER HD-CH58
 http://45.228.234.77:3340/play/warnerhd/index.m3u8
-#EXTINF:-1,AMC HD-CH39
-http://45.228.234.77:3340/play/amchd/index.m3u8
-http://181.78.4.186:8000/play/a0h5/index.m3u8
-#EXTINF:-1,FX
+#EXTINF:-1 ,FX
 http://181.78.4.186:8000/play/a0hc/index.m3u8
-#EXTINF:-1,Fox Sports 2
+#EXTINF:-1 ,Fox Sports 2
 http://181.78.4.186:8000/play/a0fg/index.m3u8
-#EXTINF:-1,Fox Sports 3
+#EXTINF:-1 ,Fox Sports 3
 http://181.78.4.186:8000/play/a0fh/index.m3u8
-#EXTINF:-1,HBO
+#EXTINF:-1 ,HBO
 http://181.78.4.186:8000/play/a0h7/index.m3u8
-#EXTINF:-1,HBO 2
+#EXTINF:-1 ,HBO 2
 http://181.78.4.186:8000/play/a0ee/index.m3u8
-#EXTINF:-1,HBO Family
+#EXTINF:-1 ,HBO Family
 http://181.78.4.186:8000/play/a0eh/index.m3u8
-#EXTINF:-1,HBO Plus
+#EXTINF:-1 ,HBO Plus
 http://181.78.4.186:8000/play/a0ef/index.m3u8
-#EXTINF:-1,HBO XTREME SD
+#EXTINF:-1 ,HBO XTREME SD
 http://181.78.4.186:8000/play/a0eg/index.m3u8
-#EXTINF:-1,History Channel
+#EXTINF:-1 ,History Channel
 http://181.78.4.186:8000/play/a0dm/index.m3u8
-#EXTINF:-1,HomeandHealth
+#EXTINF:-1 ,HomeandHealth
 http://181.78.4.186:8000/play/a0fp/index.m3u8
-#EXTINF:-1,Sony
+#EXTINF:-1 ,Sony
 http://181.78.4.186:8000/play/a0h9/index.m3u8
-#EXTINF:-1,Space
+#EXTINF:-1 ,Space
 http://181.78.4.186:8000/play/a0hb/index.m3u8
-#EXTINF:-1,Studio Universal
+#EXTINF:-1 ,Studio Universal
 http://181.78.4.186:8000/play/a0ek/index.m3u8
-#EXTINF:-1,Conectados Con Dios
+#EXTINF:-1 ,Conectados Con Dios
 http://201.190.40.45:58002/play/a017/index.m3u8
+#EXTINF:-1 ,ESPN
+http://170.83.242.152:5350/play/a00u
+#EXTINF:-1 ,ESPN 2
+http://170.83.242.152:5350/play/a02u
+#EXTINF:-1 ,ESPN 2 Latin
+http://170.83.242.152:5350/play/a00t
+#EXTINF:-1 ,ESPN 3
+http://170.83.242.152:5350/play/a00h
