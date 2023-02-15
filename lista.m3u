@@ -13,6 +13,8 @@ http://201.190.40.45:58002/play/a00q/index.m3u8
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?uid=yHDTxVbDYwwT7k9KYhmaIZ8KbJoAs9OI&sid=qHVS0BWJJIUXfvvGkUcaIqsytgeeA5F5&pid=fRATvCngKb0yhaqm7j1MCL3irZtsZQzS&an=screen&at=web-app&av=v5.2.319&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=1009x505&without_cookies=false&listenerid=&dnt=true&adInsertionSessionId=045e7245-0b62-49aa-a49f-d5f57393b740
 #EXTINF:-1,MULTIMEDIOS LAGUNA
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?uid=yHDTxVbDYwwT7k9KYhmaIZ8KbJoAs9OI&sid=lNJ2MinSCzuGwWnLejuhI5YedCqFRLM2&pid=tgTYEZFepeITf7n6MslJqsh80m6Mt0Mc&an=screen&at=web-app&av=v5.2.305&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=1009x505&without_cookies=false&listenerid=&dnt=true
+#EXTINF:-1,Univision HD
+http://190.61.101.9:8000/play/a03i/index.m3u8
 #EXTINF:-1 ,Telemundo internacional
 http://170.83.242.9:5350/play/a015
 #EXTINF:-1 ,Telemundo HD-CH29
