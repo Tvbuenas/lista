@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,Las Estrellas
-http://170.83.242.152:5350/play/a012
 #EXTINF:-1 ,ADN 40
 http://201.190.40.45:58002/play/a00s/index.m3u8
 #EXTINF:-1 ,Azteca +
@@ -9,47 +7,41 @@ http://201.190.40.45:58002/play/a015/index.m3u8
 http://201.190.40.45:58002/play/a00r/index.m3u8
 #EXTINF:-1 ,Azteca UNO
 http://201.190.40.45:58002/play/a00q/index.m3u8
-#EXTINF:-1,MULTIMEDIOS MONTERREY
-https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?uid=yHDTxVbDYwwT7k9KYhmaIZ8KbJoAs9OI&sid=qHVS0BWJJIUXfvvGkUcaIqsytgeeA5F5&pid=fRATvCngKb0yhaqm7j1MCL3irZtsZQzS&an=screen&at=web-app&av=v5.2.319&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=1009x505&without_cookies=false&listenerid=&dnt=true&adInsertionSessionId=045e7245-0b62-49aa-a49f-d5f57393b740
-#EXTINF:-1,MULTIMEDIOS LAGUNA
-https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?uid=yHDTxVbDYwwT7k9KYhmaIZ8KbJoAs9OI&sid=lNJ2MinSCzuGwWnLejuhI5YedCqFRLM2&pid=tgTYEZFepeITf7n6MslJqsh80m6Mt0Mc&an=screen&at=web-app&av=v5.2.305&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=1009x505&without_cookies=false&listenerid=&dnt=true
-#EXTINF:-1,Univision HD
+#EXTINF:-1 ,Multimedios monterrey
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?uid=yHDTxVbDYwwT7k9KYhmaIZ8KbJoAs9OI&sid=vKXH7E2Y7eVNn5oWTsj4FGy1bsER73c4&pid=XJub0pojUVasDPg98omzxnIRQBsdbtKZ&an=screen&at=web-app&av=v5.2.323&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=1009x505&without_cookies=false&listenerid=&dnt=true&adInsertionSessionId=6e1e9f41-c89e-43c2-8e44-00aaf2bccb53
+#EXTINF:-1 ,Univision HD
 http://190.61.101.9:8000/play/a03i/index.m3u8
-#EXTINF:-1 ,Telemundo internacional
-http://170.83.242.9:5350/play/a015
-#EXTINF:-1 ,Telemundo HD-CH29
-http://45.228.234.77:3340/play/telemundohd/index.m3u8
+#EXTINF:-1,Telemundo HD
+http://186.121.249.26:9000/play/a014
+#EXTINF:-1,Univision HD
+http://186.121.249.26:9000/play/a02e
+#EXTINF:-1,Distrito Comedia
+http://45.163.205.98:8000/play/a0pd/index.m3u8
+#EXTINF:-1,Comedy Central HD
+http://186.121.249.26:9000/play/a01s
 #EXTINF:-1 ,TUDN
 http://45.182.21.251:33334/play/a07y/index.m3u8
 #EXTINF:-1 ,TUDN HD USA
 http://45.182.21.251:33334/play/a077/index.m3u8
 #EXTINF:-1 ,RCG MEDIA
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
-#EXTINF:-1 ,Unicable-CH25
-http://45.228.234.77:3340/play/unicable/index.m3u8
-#EXTINF:-1 ,Distrito Comedia-CH30
-http://45.228.234.77:3340/play/distritocomedia/index.m3u8
+#EXTINF:-1,De Pelicula HD
+http://45.167.192.49:8001/play/a01m
 #EXTINF:-1 ,Space
 http://181.78.4.186:8000/play/a0hb/index.m3u8
 #EXTINF:-1 ,Studio Universal
 http://181.78.4.186:8000/play/a0ek/index.m3u8
-#EXTINF:-1 ,CINECANAL HD-CH54
-http://45.228.234.77:3340/play/cinecanal/index.m3u8
-#EXTINF:-1 ,Golden-CH56
-http://45.228.234.77:3340/play/goldenedge/index.m3u8
-#EXTINF:-1 ,WARNER HD-CH58
-http://45.228.234.77:3340/play/warnerhd/index.m3u8
 #EXTINF:-1 ,FX
 http://181.78.4.186:8000/play/a0hc/index.m3u8
-#EXTINF:-1,Port1 HD FX
+#EXTINF:-1 , FX
 http://45.232.177.17:8000/play/a00y
-#EXTINF:-1,Port2 A&E
+#EXTINF:-1 ,A&E
 http://45.232.177.17:8000/play/a01g
-#EXTINF:-1,Port2 CNN Español
+#EXTINF:-1 ,CNN Español
 http://45.232.177.17:8000/play/a018
-#EXTINF:-1,Port2 Sony
+#EXTINF:-1 , Sony
 http://45.232.177.17:8000/play/a01h
-#EXTINF:-1,Port4 HD AXN
+#EXTINF:-1 , HD AXN
 http://45.232.177.17:8000/play/a00b
 #EXTINF:-1 ,HBO
 http://181.78.4.186:8000/play/a0h7/index.m3u8
@@ -59,25 +51,17 @@ http://181.78.4.186:8000/play/a0ee/index.m3u8
 http://181.78.4.186:8000/play/a0eh/index.m3u8
 #EXTINF:-1 ,HBO Plus
 http://181.78.4.186:8000/play/a0ef/index.m3u8
-#EXTINF:-1 ,HBO XTREME SD
-http://181.78.4.186:8000/ply/a0eg/index.m3u8
+#EXTINF:-1,HBO XTREME
+http://186.121.249.26:9000/play/a00d
 #EXTINF:-1 ,History Channel
 http://181.78.4.186:8000/play/a0dm/index.m3u8
 #EXTINF:-1 ,HomeandHealth
 http://181.78.4.186:8000/play/a0fp/index.m3u8
 #EXTINF:-1 ,Conectados Con Dios
 http://201.190.40.45:58002/play/a017/index.m3u8
-#EXTINF:-1,ENC HD Disney Channel
+#EXTINF:-1 ,ENC HD Disney Channel
 http://45.232.177.17:8000/play/a02f
-#EXTINF:-1 ,ESPN
-http://170.83.242.152:5350/play/a00u
-#EXTINF:-1 ,ESPN 2
-http://170.83.242.152:5350/play/a02u
-#EXTINF:-1 ,ESPN 2 Latin
-http://170.83.242.152:5350/play/a00t
-#EXTINF:-1 ,ESPN 3
-http://170.83.242.152:5350/play/a00h
-#EXTINF:-1,Port3 ESPN 4
+#EXTINF:-1 ,Port3 ESPN 4
 http://45.232.177.17:8000/play/a028
 #EXTINF:-1 ,Fox Sports 2
 http://181.78.4.186:8000/play/a0fg/index.m3u8
