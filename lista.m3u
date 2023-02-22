@@ -16,7 +16,7 @@ http://186.121.249.26:9000/play/a014
 #EXTINF:-1,Univision HD
 http://186.121.249.26:9000/play/a02e
 #EXTINF:-1,Distrito Comedia
-http://45.163.205.98:8000/play/a0pd/index.m3u8
+http://200.24.204.242:6020/play/a0dk/index.m3u8
 #EXTINF:-1,Comedy Central HD
 http://186.121.249.26:9000/play/a01s
 #EXTINF:-1 ,TUDN
@@ -26,7 +26,7 @@ http://45.182.21.251:33334/play/a077/index.m3u8
 #EXTINF:-1 ,RCG MEDIA
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 #EXTINF:-1,De Pelicula HD
-http://45.167.192.49:8001/play/a01m
+http://177.93.50.42:9000/play/a04q/index.m3u8
 #EXTINF:-1 ,Space
 http://181.78.4.186:8000/play/a0hb/index.m3u8
 #EXTINF:-1 ,Studio Universal
@@ -61,7 +61,7 @@ http://181.78.4.186:8000/play/a0fp/index.m3u8
 http://201.190.40.45:58002/play/a017/index.m3u8
 #EXTINF:-1 ,ENC HD Disney Channel
 http://45.232.177.17:8000/play/a02f
-#EXTINF:-1 ,Port3 ESPN 4
+#EXTINF:-1 ,ESPN 4
 http://45.232.177.17:8000/play/a028
 #EXTINF:-1 ,Fox Sports 2
 http://181.78.4.186:8000/play/a0fg/index.m3u8
