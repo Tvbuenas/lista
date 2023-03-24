@@ -63,3 +63,5 @@ http://168.228.194.32:58001/play/a0b7/index.m3u8
 http://168.228.194.32:58001/play/a0bu/index.m3u8
 #EXTINF:-1 ,VIVO SPORTS
 http://168.228.194.32:58001/play/a0ba/index.m3u8
+#EXTINF:-1 ,VIVA SPORTS 2
+http://181.78.105.146:9000/play/a052
