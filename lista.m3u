@@ -15,6 +15,10 @@ http://45.190.13.50:8000/play/a044/index.m3u8
 http://190.61.102.67:8000/play/a00u
 #EXTINF:-1 ,Multimedios Monterrey
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?uid=yHDTxVbDYwwT7k9KYhmaIZ8KbJoAs9OI&sid=KfA3tiPURbQ8Ufe8GaFoycDCm8ldDcXp&pid=9WIylkXbZr4psHoj8oSkkGxK3nDmTECk&an=screen&at=web-app&av=v5.2.327&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=1009x505&without_cookies=false&listenerid=&dnt=true&adInsertionSessionId=f99fdbe2-3491-4b21-be4f-7aa39ae178b8
+#EXTINF:-1,Telemundo
+http://181.209.173.10:9000/play/a019/index.m3u8
+#EXTINF:-1,Univision HD
+http://181.209.173.10:9000/play/a03i/index.m3u8
 #EXTINF:-1,Distrito Comedia
 http://200.24.204.242:6020/play/a0dk/index.m3u8
 #EXTINF:-1,TURBO
@@ -41,6 +45,8 @@ http://45.232.177.17:8000/play/a018
 http://45.232.177.17:8000/play/a01h
 #EXTINF:-1 , HD AXN
 http://45.232.177.17:8000/play/a00b
+#EXTINF:-1,AMC HD
+http://190.61.102.67:444/play/a04s
 #EXTINF:-1 ,HBO
 http://181.78.4.186:8000/play/a0h7/index.m3u8
 #EXTINF:-1 ,HBO 2
@@ -50,7 +56,7 @@ http://181.78.4.186:8000/play/a0eh/index.m3u8
 #EXTINF:-1 ,HBO Plus
 http://181.78.4.186:8000/play/a0ef/index.m3u8
 #EXTINF:-1,HBO XTREME
-
+http://190.61.102.67:444/play/a019
 #EXTINF:-1 ,History Channel
 http://181.78.4.186:8000/play/a0dm/index.m3u8
 #EXTINF:-1 ,HomeandHealth
@@ -77,24 +83,16 @@ http://168.228.194.32:58001/play/a0b2/index.m3u8
 http://168.228.194.32:58001/play/a09t/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN 2 HD (ᴍx)
 http://168.228.194.32:58001/play/a0b3/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN 3 HD
-http://168.228.194.32:58001/play/a09s/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN 3 HD (ᴍx)
 http://168.228.194.32:58001/play/a0b4/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN 4 HD
 http://168.228.194.32:58001/play/a09m/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN HD
-http://168.228.194.32:58001/play/a09r/index.m3u8
 #EXTINF:-1 group-title="Deportes",Espn Deportes HD
 http://168.228.194.32:58001/play/a0bv/index.m3u8
 #EXTINF:-1 group-title="Deportes",FOX SPORTS 1 HD (ᴍx)
 http://168.228.194.32:58001/play/a0b5/index.m3u8
-#EXTINF:-1 group-title="Deportes",FOX SPORTS 1 HD (ᴍx)2
-http://168.228.194.32:58001/play/a0b6/index.m3u8
 #EXTINF:-1 group-title="Deportes",FOX SPORTS 2 HD (ᴍx)
 http://168.228.194.32:58001/play/a0b7/index.m3u8
-#EXTINF:-1 group-title="Deportes",FOX SPORTS 3 HD
-http://168.228.194.32:58001/play/a09u/index.m3u8
 #EXTINF:-1 group-title="Deportes",FOX SPORTS 3 HD (ᴍx)
 http://168.228.194.32:58001/play/a0b8/index.m3u8
 #EXTINF:-1 group-title="Deportes",Gol Tv Premiere HD
