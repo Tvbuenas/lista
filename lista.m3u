@@ -99,5 +99,7 @@ http://168.228.194.32:58001/play/a0b8/index.m3u8
 http://168.228.194.32:58001/play/a0bj/index.m3u8
 #EXTINF:-1 group-title="Deportes",TUDN HD (ᴜsᴀ)
 http://168.228.194.32:58001/play/a0b9/index.m3u8
+#EXTINF:-1 group-title="Deportes",red
+http://168.228.194.32:58001/play/a0ci/index.m3u8
 #EXTINF:-1 group-title="Deportes",TUDN ʜᴅ (ᴍx)
 http://168.228.194.32:58001/play/a0at/index.m3u8
