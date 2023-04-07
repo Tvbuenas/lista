@@ -14,8 +14,7 @@ http://45.190.13.50:8000/play/a044/index.m3u8
 #EXTINF:-1 ,Multimedios DF
 http://190.61.102.67:8000/play/a00u
 #EXTINF:-1,Multimedios
-http://181.209.159.246:92/play/a004/index.m3u8
-#EXTINF:-1,Telemundo
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?uid=yHDTxVbDYwwT7k9KYhmaIZ8KbJoAs9OI&sid=aI7VZ1ad5mIzq7Ql38cctzM6Ip5CDrCp&pid=NLWh5ywQyJ25tGyi1JcF27G2HQ4HypOO&an=screen&at=web-app&av=v5.2.330&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=1009x505&without_cookies=false&listenerid=&dnt=true#EXTINF:-1,Telemundo
 http://181.209.173.10:9000/play/a019/index.m3u8
 #EXTINF:-1,Univision HD
 http://181.209.173.10:9000/play/a03i/index.m3u8
@@ -49,6 +48,12 @@ http://45.232.177.17:8000/play/a01h
 http://45.232.177.17:8000/play/a00b
 #EXTINF:-1,AMC HD
 http://190.61.102.67:444/play/a04s
+#EXTINF:-1,Golden
+http://200.24.141.2:4000/play/a2kt/index.m3u8
+#EXTINF:-1,Golden Edge
+http://200.24.141.2:4000/play/a2k5/index.m3u8
+#EXTINF:-1,Golden PLUS HD
+http://200.24.141.2:4000/play/a0z0/index.m3u8
 #EXTINF:-1 ,HBO
 http://181.78.4.186:8000/play/a0h7/index.m3u8
 #EXTINF:-1 ,HBO 2
@@ -67,6 +72,8 @@ http://181.78.4.186:8000/play/a0fp/index.m3u8
 http://45.182.21.251:33334/play/a05d/index.m3u8
 #EXTINF:-1 ,ENC HD Disney Channel
 http://45.232.177.17:8000/play/a02f
+#EXTINF:-1 tvg-logo="http://45.5.118.226:8000/playlist/tvg-logo/a04y.png",AFIZZIONADOS
+http://45.5.118.226:8000/play/a04y/index.m3u8
 #EXTINF:-1 ,VIVO SPORTS
 http://168.228.194.32:58001/play/a0ba/index.m3u8
 #EXTINF:-1 group-title="Deportes",Claro Sports 1 HD
