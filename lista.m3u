@@ -8,14 +8,13 @@ http://45.182.21.251:33334/play/a08u/index.m3u8
 #EXTINF:-1,XHTVM-ADN40
 http://45.182.21.251:33334/play/a08r/index.m3u8
 #EXTINF:-1 ,CANAL DE LAS ESTRELLAS
-http://190.61.102.67:8000/play/las4
+http://45.5.118.226:8000/play/a055/index.m3u8
 #EXTINF:-1 ,Azteca 7
 http://45.190.13.50:8000/play/a044/index.m3u8
-#EXTINF:-1 ,Multimedios DF
-http://190.61.102.67:8000/play/a00u
-#EXTINF:-1,Multimedios
-https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?uid=yHDTxVbDYwwT7k9KYhmaIZ8KbJoAs9OI&sid=aI7VZ1ad5mIzq7Ql38cctzM6Ip5CDrCp&pid=NLWh5ywQyJ25tGyi1JcF27G2HQ4HypOO&an=screen&at=web-app&av=v5.2.330&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=1009x505&without_cookies=false&listenerid=&dnt=true#EXTINF:-1,Telemundo
-http://181.209.173.10:9000/play/a019/index.m3u8
+#EXTINF:-1 ,Multimedios MONTERREY
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?uid=yHDTxVbDYwwT7k9KYhmaIZ8KbJoAs9OI&sid=nHyXMr7V3vxcCsr0skfs8KeiyNKeq4uM&pid=SbgIjVuAdKLbuoVtJu8DFYns3ncHKr1s&an=screen&at=web-app&av=v5.2.336&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=1009x505&without_cookies=false&listenerid=&dnt=true&adInsertionSessionId=2a80e2de-3d17-4a26-83e4-dc6e060d7a80
+#EXTINF:-1,GALAVISION
+http://181.78.11.238:6837/play/a034
 #EXTINF:-1,Univision HD
 http://181.209.173.10:9000/play/a03i/index.m3u8
 #EXTINF:-1,Unicable HD
@@ -27,33 +26,33 @@ http://181.78.21.60:16123/play/ch24
 #EXTINF:-1 ,RCG MEDIA
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 #EXTINF:-1,De Pelicula HD
-http://177.93.50.42:9000/play/a04q/index.m3u8
+http://181.78.11.238:6837/play/a02a
 #EXTINF:-1,Cinemax
-http://84.67.95.93:8000/play/a08y/index.m3u8
+http://181.78.27.187:5350/play/a002
 #EXTINF:-1,Golden
-http://38.7.24.161:8000/play/a01g
+http://181.78.11.238:6837/play/a004
 #EXTINF:-1 ,Space
 http://181.78.4.186:8000/play/a0hb/index.m3u8
 #EXTINF:-1 ,Studio Universal
 http://181.78.4.186:8000/play/a0ek/index.m3u8
 #EXTINF:-1 , FX
-http://45.232.177.17:8000/play/a00y
+http://181.78.27.187:5350/play/a006
 #EXTINF:-1 ,A&E
-http://45.232.177.17:8000/play/a01g
-#EXTINF:-1 ,CNN Español
-http://45.232.177.17:8000/play/a018
+http://181.78.27.187:5350/play/a00y
+#EXTINF:-1 ,CNN Internacional
+http://181.224.161.138:1010/play/a053/index.m3u8
 #EXTINF:-1 , Sony
-http://45.232.177.17:8000/play/a01h
+http://181.78.27.187:5350/play/a003
 #EXTINF:-1 , HD AXN
-http://45.232.177.17:8000/play/a00b
-#EXTINF:-1,AMC HD
-http://190.61.102.67:444/play/a04s
+http://181.78.27.187:5350/play/a091
+#EXTINF:-1,UNIVERSAL
+http://181.78.27.187:5350/play/a031
 #EXTINF:-1,Golden
-http://200.24.141.2:4000/play/a2kt/index.m3u8
+http://181.129.250.45:9060/play/a0k5/index.m3u8
 #EXTINF:-1,Golden Edge
 http://200.24.141.2:4000/play/a2k5/index.m3u8
-#EXTINF:-1,Golden PLUS HD
-http://200.24.141.2:4000/play/a0z0/index.m3u8
+#EXTINF:-1,Golden PREMIER
+http://181.78.11.238:6837/play/a003
 #EXTINF:-1 ,HBO
 http://181.78.4.186:8000/play/a0h7/index.m3u8
 #EXTINF:-1 ,HBO 2
@@ -63,15 +62,15 @@ http://181.78.4.186:8000/play/a0eh/index.m3u8
 #EXTINF:-1 ,HBO Plus
 http://181.78.4.186:8000/play/a0ef/index.m3u8
 #EXTINF:-1,HBO XTREME
-http://190.61.102.67:444/play/a019
+http://181.78.27.187:5350/play/a02q
 #EXTINF:-1 ,History Channel
 http://181.78.4.186:8000/play/a0dm/index.m3u8
 #EXTINF:-1 ,HomeandHealth
 http://181.78.4.186:8000/play/a0fp/index.m3u8
 #EXTINF:-1 ,Conectados Con Dios
 http://45.182.21.251:33334/play/a05d/index.m3u8
-#EXTINF:-1 ,ENC HD Disney Channel
-http://45.232.177.17:8000/play/a02f
+#EXTINF:-1 ,ENC HD Disney Channel CANAL DE BRITANY
+http://181.78.27.187:5350/play/a00n
 #EXTINF:-1 tvg-logo="http://45.5.118.226:8000/playlist/tvg-logo/a04y.png",AFIZZIONADOS
 http://45.5.118.226:8000/play/a04y/index.m3u8
 #EXTINF:-1 ,VIVO SPORTS
