@@ -12,7 +12,9 @@ http://45.5.118.226:8000/play/a055/index.m3u8
 #EXTINF:-1 ,Azteca 7
 http://45.190.13.50:8000/play/a044/index.m3u8
 #EXTINF:-1 ,Multimedios MONTERREY
-https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?uid=yHDTxVbDYwwT7k9KYhmaIZ8KbJoAs9OI&sid=nHyXMr7V3vxcCsr0skfs8KeiyNKeq4uM&pid=SbgIjVuAdKLbuoVtJu8DFYns3ncHKr1s&an=screen&at=web-app&av=v5.2.336&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=1009x505&without_cookies=false&listenerid=&dnt=true&adInsertionSessionId=2a80e2de-3d17-4a26-83e4-dc6e060d7a80
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?uid=yHDTxVbDYwwT7k9KYhmaIZ8KbJoAs9OI&sid=qdMin2n9emq1Zepd1sY9AXDGNCTCQ7OD&pid=OUQGT7uf07RtqOVCmwihTNkw8dLWRny6&an=screen&at=web-app&av=v5.2.338&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=1009x505&without_cookies=false&listenerid=&dnt=true&adInsertionSessionId=768b07b2-fdb5-46b7-8210-87c17016d3a0
+#EXTINF:-1,GALAVISION
+http://45.170.225.212:58001/play/bm01/index.m3u8
 #EXTINF:-1,GALAVISION
 http://181.78.11.238:6837/play/a034
 #EXTINF:-1,Univision HD
@@ -20,7 +22,7 @@ http://181.209.173.10:9000/play/a03i/index.m3u8
 #EXTINF:-1,Unicable HD
 http://190.186.159.19:58001/play/a00v/index.m3u8
 #EXTINF:-1,Distrito Comedia
-http://200.24.204.242:6020/play/a0dk/index.m3u8
+http://45.71.252.67:8000/play/a0d4/index.m3u8
 #EXTINF:-1,TURBO
 http://181.78.21.60:16123/play/ch24
 #EXTINF:-1 ,RCG MEDIA
@@ -51,6 +53,8 @@ http://181.78.27.187:5350/play/a031
 http://181.129.250.45:9060/play/a0k5/index.m3u8
 #EXTINF:-1,Golden Edge
 http://200.24.141.2:4000/play/a2k5/index.m3u8
+#EXTINF:-1,TNT HD
+http://45.170.225.212:58001/play/a00t/index.m3u8
 #EXTINF:-1,Golden PREMIER
 http://181.78.11.238:6837/play/a003
 #EXTINF:-1 ,HBO
