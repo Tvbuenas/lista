@@ -7,16 +7,20 @@ http://45.182.21.251:33334/play/a08k/index.m3u8
 http://45.182.21.251:33334/play/a08u/index.m3u8
 #EXTINF:-1,XHTVM-ADN40
 http://45.182.21.251:33334/play/a08r/index.m3u8
-#EXTINF:-1 ,CANAL DE LAS ESTRELLAS
-http://45.5.118.226:8000/play/a055/index.m3u8
-#EXTINF:-1 ,Azteca 7
-http://45.190.13.50:8000/play/a044/index.m3u8
+#EXTINF:-1,AZTECA13HD
+http://45.182.21.251:33334/play/a07x/index.m3u8
+#EXTINF:-1,AZTECA7HD
+http://45.182.21.251:33334/play/a07w/index.m3u8
+#EXTINF:-1,LasEstrellasHD
+http://45.182.21.251:33334/play/a076/index.m3u8
+#EXTINF:-1,CBC CANL 6
+http://45.182.21.251:33334/play/a063/index.m3u8
 #EXTINF:-1 ,Multimedios MONTERREY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?uid=yHDTxVbDYwwT7k9KYhmaIZ8KbJoAs9OI&sid=qdMin2n9emq1Zepd1sY9AXDGNCTCQ7OD&pid=OUQGT7uf07RtqOVCmwihTNkw8dLWRny6&an=screen&at=web-app&av=v5.2.338&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=1009x505&without_cookies=false&listenerid=&dnt=true&adInsertionSessionId=768b07b2-fdb5-46b7-8210-87c17016d3a0
+#EXTINF:-1,BANDAMAX CHO
+http://200.229.147.76:4000/play/a0hw/index.m3u8
 #EXTINF:-1,GALAVISION
 http://45.170.225.212:58001/play/bm01/index.m3u8
-#EXTINF:-1,GALAVISION
-http://181.78.11.238:6837/play/a034
 #EXTINF:-1,Univision HD
 http://181.209.173.10:9000/play/a03i/index.m3u8
 #EXTINF:-1,Unicable HD
@@ -73,6 +77,12 @@ http://181.78.4.186:8000/play/a0dm/index.m3u8
 http://181.78.4.186:8000/play/a0fp/index.m3u8
 #EXTINF:-1 ,Conectados Con Dios
 http://45.182.21.251:33334/play/a05d/index.m3u8
+#EXTINF:-1,Disney
+http://190.83.116.230:9010/play/a09v/index.m3u8
+#EXTINF:-1,Disney JR
+http://190.83.116.230:9010/play/a02h/index.m3u8
+#EXTINF:-1,Disney 😆
+http://190.83.116.230:9010/play/a042/index.m3u8
 #EXTINF:-1 ,ENC HD Disney Channel CANAL DE BRITANY
 http://181.78.27.187:5350/play/a00n
 #EXTINF:-1 tvg-logo="http://45.5.118.226:8000/playlist/tvg-logo/a04y.png",AFIZZIONADOS
