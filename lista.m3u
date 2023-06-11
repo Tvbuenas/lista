@@ -285,6 +285,8 @@ http://201.190.40.45:58002/play/a015/index.m3u8
 http://201.190.40.45:58002/play/a00r/index.m3u8
 #EXTINF:-1 ,Azteca UNO
 http://201.190.40.45:58002/play/a00q/index.m3u8
+#EXTINF:-1 ,MULTIMEDIOS MONTERREY
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?uid=yHDTxVbDYwwT7k9KYhmaIZ8KbJoAs9OI&sid=FVVPYsDqwPdS8zO66zwZGP3urfTtl1Gf&pid=erRoaaNqfe0FY6h9Vq2FMhmE5hSBrj1L&an=screen&at=web-app&av=v5.2.343&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=1009x505&without_cookies=false&listenerid=&dnt=true&adInsertionSessionId=53330d54-4e03-4495-a08a-cf4e58323c92
 #EXTINF:-1 group-title="General",Canal Claro HD
 http://168.228.194.33:48001/play/a032/index.m3u8
 #EXTINF:-1 group-title="General",Comedy Central HD
