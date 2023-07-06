@@ -1,4 +1,8 @@
-#EXTM3U
+#EXTM3U 
+#EXTINF:-1 ,PUENTE INTERNACIONAL CAMARA 1
+https://s88.ipcamlive.com/streams/58ioqjasvfiblxzsl/stream.m3u8
+#EXTINF:-1 ,PUENTE INTERNACIONAL CAMARA 2
+https://s103.ipcamlive.com/streams/67bqxfwg4abthojur/stream.m3u8
 #EXTINF:-1 ,BANDAMAX
 http://45.170.225.212:58001/play/bm01/index.m3u8
 #EXTINF:-1 ,Univision HD
