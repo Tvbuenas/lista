@@ -295,5 +295,4 @@ http://168.228.194.33:48001/play/a08g/index.m3u8
 http://168.228.194.33:48001/play/a0c0/index.m3u8
 #EXTINF:-1 group-title="General",E! Entertairment HD
 http://168.228.194.33:48001/play/a05r/index.m3u8
-#EXTINF:-1 , Pantalla
-http://176.107.255.55:4022/udp/239.1.1.252:1234
+
